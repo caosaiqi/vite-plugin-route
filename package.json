@@ -1,0 +1,23 @@
+{
+  "name": "vite-plugin-route",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "route": "bin/route.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caosaiqi/vite-plugin-route.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caosaiqi/vite-plugin-route/issues"
+  },
+  "homepage": "https://github.com/caosaiqi/vite-plugin-route#readme"
+}
